@@ -1,0 +1,55 @@
+[
+    {
+        "question": "What is a Python used for?",
+        "children": [
+            {
+                "question": "Is Python or C++ better?"
+            },
+            {
+                "question": "Where Python is used in real life?"
+            }
+        ]
+    },
+    {
+        "question": "Which is Python language?",
+        "children": [
+            {
+                "question": "What is Python and its types?"
+            },
+            {
+                "question": "What is Python with example?"
+            },
+            {
+                "question": "What are Python basics?"
+            }
+        ]
+    },
+    {
+        "question": "Can I learn Python in a month?",
+        "children": [
+            {
+                "question": "Which is best course for Python?"
+            },
+            {
+                "question": "Is Java or Python easier?"
+            },
+            {
+                "question": "How many hours studying Python?"
+            }
+        ]
+    },
+    {
+        "question": "What is Python Tamil?",
+        "children": [
+            {
+                "question": "Why is Python called snake?"
+            },
+            {
+                "question": "What is the fees for Python course?"
+            },
+            {
+                "question": "Why is it called Python?"
+            }
+        ]
+    }
+]
